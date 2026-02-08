@@ -48,7 +48,7 @@ No experience required. Just bring your curiosity!
 
 | Role | Name |
 |:---|:---|
-| 😎 **Leader** | Aaron Ho |
+| 😎 **Co-Leader** | Aaron Ho |
 | 💻 **Co-Leader** | James Gerald Arroyo Yap |
 | 📅 **Events** | Placeholder |
 | 🔧 **Tech Lead** | Placeholder |
