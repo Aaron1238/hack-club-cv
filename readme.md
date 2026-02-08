@@ -1,21 +1,21 @@
-&lt;p align="center"&gt;
-  &lt;img src="https://assets.hackclub.com/flag-orpheus-top.svg" width="120" alt="Hack Club"&gt;
-&lt;/p&gt;
+<p align="center">
+  <img src="https://assets.hackclub.com/flag-orpheus-top.svg" width="120" alt="Hack Club">
+</p>
 
-&lt;h1 align="center"&gt;Hack Club CV&lt;/h1&gt;
+<h1 align="center">Hack Club CV</h1>
 
-&lt;p align="center"&gt;
-  &lt;strong&gt;Crescenta Valley High School's Hack Club&lt;/strong&gt;
-&lt;/p&gt;
+<p align="center">
+  <strong>Crescenta Valley High School's Hack Club</strong>
+</p>
 
-&lt;p align="center"&gt;
+<p align="center">
   A club where you build cool stuff!
-&lt;/p&gt;
+</p>
 
-&lt;p align="center"&gt;
-  &lt;img src="https://img.shields.io/badge/Hack%20Club-Official%20Chapter-ec3750?style=for-the-badge"&gt;
-  &lt;img src="https://img.shields.io/badge/Made%20by-Students-5bc0de?style=for-the-badge"&gt;
-&lt;/p&gt;
+<p align="center">
+  <img src="https://img.shields.io/badge/Hack%20Club-Official%20Chapter-ec3750?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Made%20by-Students-5bc0de?style=for-the-badge">
+</p>
 
 ---
 
@@ -55,36 +55,36 @@ No experience required. Just bring your curiosity!
 
 ## 📅 Events
 
-We meet every **Tuesday after school**. 
+We meet every **Tuesday after school**.
 
 [📅 Subscribe to our Google Calendar](https://calendar.google.com/calendar/u/0/r?cid=Y2xhc3Nyb29tMTE4MDU5MzI4MDI3OTUyNDE2ODcwQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20)
 
 ## 🛠️ Built With
 
-- HTML5
-- CSS3
-- JavaScript
-- [Phantom Sans](https://assets.hackclub.com/fonts/PhantomSans/)
-- Google Calendar API
+- HTML5  
+- CSS3  
+- JavaScript  
+- [Phantom Sans](https://assets.hackclub.com/fonts/PhantomSans/)  
+- Google Calendar API  
 
 ## 🤝 Contributing
 
-1. Fork this repository
-2. Create your feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
+1. Fork this repository  
+2. Create your feature branch (`git checkout -b feature/amazing-feature`)  
+3. Commit your changes (`git commit -m 'Add amazing feature'`)  
+4. Push to the branch (`git push origin feature/amazing-feature`)  
+5. Open a Pull Request  
 
 ---
 
-&lt;p align="center"&gt;
-  &lt;img src="https://assets.hackclub.com/flag-orpheus-top.svg" width="60"&gt;
-&lt;/p&gt;
+<p align="center">
+  <img src="https://assets.hackclub.com/flag-orpheus-top.svg" width="60">
+</p>
 
-&lt;p align="center"&gt;
-  &lt;strong&gt;Made with ❤️ by students, for students.&lt;/strong&gt;
-&lt;/p&gt;
+<p align="center">
+  <strong>Made with ❤️ by students, for students.</strong>
+</p>
 
-&lt;p align="center"&gt;
+<p align="center">
   Crescenta Valley High School • La Crescenta, CA
-&lt;/p&gt;
+</p>
